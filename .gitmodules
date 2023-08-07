@@ -1,0 +1,3 @@
+[submodule "vrc"]
+	path = vrc
+	url = https://github.com/xiphia/vrc-data-repo.git
